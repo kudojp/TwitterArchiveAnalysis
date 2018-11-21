@@ -2,7 +2,7 @@
 ## by Daiki Kudo
 
 
-This is a project from Udacity Data Scientist Nanodegree Program Project4.  
+This is a project from Udacity Data Scientist Nanodegree Program Sectioin4.  
 
 Through this analysis, I get the tweets data of Twitter account ’WeRateDogs (@dog_rates)" from Twitter API and investigate the features of tweets which were highly evaluated from this popular dog rating account.   
 
